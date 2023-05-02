@@ -1,0 +1,1671 @@
+@media (min-width: 1400px) {
+    header .container {
+        max-width: 1431px;
+    }
+
+    .container {
+        max-width: 1340px;
+    }
+}
+
+@media (max-width: 1600px) {
+    .wrapper {
+        max-width: 1399px;
+        padding: 66px 0px 191px;
+    }
+    .contact-sec {
+        margin: 85px 0px 110px;
+    }
+
+    .management-page {
+        margin: 76px 0px 123px !important;
+    }
+
+    .hero-sec {
+        padding: 40px 0px 180px;
+    }
+
+    .entertainment .text-box h3 {
+        line-height: 45px;
+    }
+
+    .hobby-sec {
+        padding-bottom: 70px;
+    }
+
+    .tech-sec .text-box h1 {
+        font-size: 65px;
+        line-height: 73px;
+    }
+
+    .tech-sec .text-box h1 span {
+        font-size: 55px;
+        font-weight: 400;
+    }
+
+    .tech-sec {
+        margin-top: 70px;
+    }
+
+    .metaverse-sec .text-box h1 {
+        line-height: 60px;
+    }
+
+    .nft-sec {
+        margin-bottom: 118px;
+    }
+
+    .metaverse-sec {
+        margin-top: 90px;
+    }
+
+    .coin-sec {
+        margin-top: 60px;
+    }
+
+    .coin-sec .text-box h1 {
+        font-size: 53px;
+        line-height: 62px;
+    }
+
+    .text-box .paragrapgh-size {
+        font-size: 16px;
+        line-height: 28px;
+    }
+
+    .text-box .paragrapgh-size {
+        font-size: 16px;
+        line-height: 28px;
+    }
+
+    header {
+        padding-top: 26px;
+    }
+
+    .login-sec {
+        margin: 70px 0px 170px;
+    }
+
+    .card-sec .card {
+        min-height: 341px;
+    }
+
+    .text-box h1 {
+        font-size: 55.81px;
+        line-height: 50px;
+    }
+
+    .management-sec {
+        margin: 198px 0px 139px;
+    }
+
+    .management-sec ul .list-text {
+        padding-left: 80px;
+    }
+
+    .hero-sec .text-box h4 {
+        font-size: 43.34px;
+        line-height: 58px;
+    }
+
+    .btn-learn {
+        font-size: 31px;
+        line-height: 29px;
+    }
+
+    .text-box h2 {
+        font-size: 48px;
+        line-height: 85px;
+    }
+
+    .card-sec .card .text-box h3 {
+        font-size: 27px;
+    }
+
+    .card-sec .card .text-box p {
+        font-size: 16px;
+    }
+
+    .vedio-sec {
+        margin: 150px 0px 160px;
+    }
+
+    .meta-sec {
+        margin: 142px 0px 104px;
+    }
+
+    .text-box p {
+        font-size: 20px;
+        line-height: 34px;
+    }
+
+    .management-sec ul .list-text h6 {
+        font-size: 31px;
+        line-height: 47px;
+    }
+
+    .management-sec ul .list-text h5 {
+        font-size: 31px;
+        line-height: 41px;
+    }
+
+    .management-sec ul .list-text p {
+        font-size: 22px;
+        line-height: 42px;
+    }
+
+    .management-sec ul li img {
+        max-width: 208px;
+        height: 207px;
+    }
+
+    .table-sec {
+        margin-bottom: 100px;
+    }
+
+    .news-sec {
+        margin: 100px 0px 100px;
+    }
+
+    .partner-sec {
+        margin: 100px 0px 160px;
+    }
+
+    .about-space {
+        margin-bottom: 120px;
+    }
+
+    .about-sec {
+        margin-bottom: 135px;
+    }
+
+    .sharia-sec {
+        margin: 114px 0px 143px;
+    }
+
+    .crtypto-sec .crypto-space {
+        margin: 43px 0px 90px;
+    }
+}
+
+@media (max-width: 1300px) {
+    .login-sec {
+        margin: 59px 0px 99px;
+    }
+    .form-box h2 {
+        font-size: 33px;
+    }
+    .register-sec {
+        margin: 60px 0px 85px;
+    }
+    form .form-input::placeholder {
+        font-size: 19px;
+    }
+    .register-wrapper {
+        max-width: 1023px;
+        padding: 52px 75px 46px;
+    }
+    .contact-sec {
+        margin: 58px 0px 95px;
+    }
+    .register-sec {
+        margin: 0px 0px 85px;
+    }
+    .contact-wrapper {
+        max-width: 1008px;
+    }
+
+    .management-page {
+        margin: 55px 0px 99px !important;
+    }
+
+    header {
+        padding-top: 10px;
+    }
+
+    .tech-sec .text-box h1 {
+        font-size: 55px;
+        line-height: 55px;
+    }
+
+    .tech-sec .text-box h1 span {
+        font-size: 48px;
+    }
+
+    .crtypto-sec .crypto-space {
+        margin: 43px 0px 70px;
+    }
+
+    .about-sec {
+        margin-bottom: 108px;
+    }
+
+    .tech-sec .text-box h1 {
+        font-size: 55px;
+        line-height: 60px;
+    }
+
+    .management-sec {
+        margin: 120px 0px 91px;
+    }
+
+    .history-sec {
+        margin: 28px 0px 108px;
+    }
+
+    .table-sec ul li h2 {
+        font-size: 35px;
+    }
+
+    .table-sec .nav-tabs .nav-link {
+        font-size: 20px;
+        line-height: 33px;
+    }
+
+    .wrapper {
+        max-width: 1143px;
+        padding: 66px 39px 85px;
+    }
+
+    nav .navbar-link ul li a {
+        font-size: 15px;
+    }
+
+    .text-box h3 {
+        font-size: 29px;
+        line-height: 59px;
+    }
+}
+
+@media (max-width: 1199px) {
+    .login-wrapper {
+        max-width: 809px;
+        padding: 52px 43px 35px 53px;
+    }
+    .btn-login {
+        font-size: 25px;
+        width: 160px;
+        height: 42px;
+    }
+    .login-sec {
+        margin: 32px 0px 72px;
+    }
+    .register-wrapper {
+        max-width: 821px;
+        padding: 52px 49px 46px;
+    }
+    .group-space {
+        margin-top: 46px;
+    }
+    .register-sec .image-holder {
+        margin-bottom: 13px;
+    }
+    .email-space {
+        margin: 30px 0px;
+    }
+
+    .contact-sec .location-img .location-button {
+        top: 12%;
+    }
+
+    .contact-wrapper {
+        max-width: 821px;
+        padding: 52px 52px 97px;
+    }
+
+    form .lable {
+        font-size: 18px;
+        line-height: 29px;
+    }
+
+    .management-page {
+        margin: 46px 0px 89px !important;
+    }
+
+    .crtypto-sec {
+        margin-bottom: 90px;
+    }
+
+    .crtypto-sec .crypto-space {
+        margin: 43px 0px 25px;
+    }
+
+    .contract {
+        margin: 145px 0px 80px;
+    }
+
+    .sharia-sec {
+        margin: 80px 0px 90px;
+    }
+
+    .about-space {
+        margin-bottom: 50px;
+    }
+
+    .news-sec {
+        margin: 64px 0px 76px;
+    }
+
+    .table-sec .table thead tr th {
+        font-size: 16px;
+        line-height: 21px;
+    }
+
+    .table-sec {
+        margin-bottom: 70px;
+    }
+
+    .news-sec ul {
+        margin-bottom: 17px;
+    }
+
+    .news-sec .text-box p {
+        font-size: 14px;
+        line-height: 23px;
+    }
+
+    .table-sec ul li h2 {
+        font-size: 30px;
+        line-height: 39px;
+    }
+
+    .table-sec .nav-tabs .nav-link {
+        font-size: 18px;
+        line-height: 30px;
+    }
+
+    .table-sec .table tbody tr th,
+    td {
+        font-size: 16px;
+        line-height: 26px;
+    }
+
+    .text-box h3 {
+        font-size: 24px;
+        line-height: 58px;
+    }
+
+    .entertainment .text-box h3 {
+        line-height: 37px;
+    }
+
+    .hero-sec .text-box h4 {
+        font-size: 35.34px;
+        line-height: 51px;
+    }
+
+    .tech-sec .text-box h1 span {
+        font-size: 45px;
+    }
+
+    .tech-sec .text-box h1 {
+        font-size: 51px;
+        line-height: 56px;
+    }
+
+    .tech-sec {
+        margin-top: 27px;
+    }
+
+    .text-box h1 {
+        font-size: 45.81px;
+        line-height: 40px;
+    }
+
+    .btn-learn {
+        font-size: 29px;
+        line-height: 25px;
+    }
+
+    .coin-sec .text-box h1 {
+        font-size: 44px;
+        line-height: 50px;
+    }
+
+    .text-box .paragrapgh-size {
+        font-size: 15px;
+        line-height: 22px;
+    }
+
+    .number-sec .number-list li p {
+        font-size: 16px;
+        line-height: 28px;
+    }
+
+    .nft-sec .text-box h2 {
+        font-size: 36px;
+        line-height: 45px;
+    }
+
+    .nft-sec .text-box p {
+        font-size: 16px;
+        line-height: 29px;
+    }
+
+    .text-box .detaile {
+        font-size: 16px;
+        padding-top: 28px;
+        margin-bottom: 48px;
+    }
+
+    .nft-sec {
+        margin-bottom: 77px;
+    }
+
+    .hero-sec {
+        padding: 40px 0px 135px;
+    }
+
+    .text-box h2 {
+        font-size: 40px;
+        line-height: 68px;
+    }
+
+    .text-box p {
+        font-size: 18px;
+        line-height: 32px;
+    }
+
+    .btn-learn {
+        font-size: 25px;
+        line-height: 18px;
+        padding: 19px 0 0 0;
+
+    }
+
+    .box::before {
+        width: 78%;
+        height: 98%;
+        margin: 0 auto;
+        right: 0;
+    }
+
+    .box::after {
+        width: 78%;
+        height: 98%;
+        margin: 0 auto;
+        right: 0;
+    }
+
+    .card-sec .box img {
+        width: 75px;
+        height: 75px;
+    }
+
+    .card-sec .card .text-box h3 {
+        font-size: 19px;
+        line-height: 30px;
+    }
+
+    .card-sec .card .text-box br {
+        display: none;
+    }
+
+    .card-sec .card .text-box p {
+        font-size: 14px;
+        line-height: 30px;
+        padding: 0px 25px;
+    }
+
+    .management-sec {
+        margin: 154px 0px 128px;
+    }
+
+    .management-sec ul .list-text h6 {
+        font-size: 26px;
+    }
+
+    .management-sec ul .list-text p {
+        font-size: 19px;
+        line-height: 42px;
+    }
+
+    .management-sec ul li img {
+        max-width: 196px;
+        height: 196px;
+    }
+
+    .management-sec ul .list-text h5 {
+        font-size: 26px;
+        margin-bottom: 0px;
+    }
+
+    .wrapper {
+        padding: 66px 0px 100px;
+    }
+
+    nav .navbar-link ul li a {
+        font-size: 15px;
+        padding: 0px 10px;
+    }
+
+    header .navbar-nav .nav-item .nav-link {
+        font-size: 19px;
+    }
+
+    .graphic-sec {
+        margin-bottom: 135px;
+    }
+
+    .vedio-sec {
+        margin: 139px 0px 137px;
+    }
+
+    .text-box p {
+        font-size: 16px;
+        line-height: 32px;
+    }
+
+    .partner-sec ul {
+        display: grid;
+        grid-template-columns: 3fr 3fr 3fr 3fr;
+        margin-top: 0px;
+    }
+
+    .partner-sec ul li {
+        margin-top: 45px;
+    }
+
+    .partner-sec {
+        margin: 73px 0px 113px;
+    }
+
+    .customer-sec .text-box h2 {
+        font-size: 23px;
+    }
+
+    footer .text-box h2 {
+        font-size: 20px;
+    }
+
+    .gaming-sec .text-box p {
+        font-size: 15px;
+        line-height: 27px;
+    }
+
+    .metaverse-sec {
+        margin-top: 51px;
+    }
+
+    .gaming-sec {
+        margin-bottom: 90px;
+    }
+
+    .metaverse-sec .text-box p {
+        font-size: 15px;
+        line-height: 29px;
+    }
+
+}
+
+@media (max-width: 991px) {
+    .login-sec {
+        margin: 14px 0px 48px;
+    }
+    
+    .location-button img {
+        width: 38px;
+    }
+    .register-wrapper {
+        max-width: 623px;
+        padding: 52px 41px 46px;
+    }
+    form .lable {
+        font-size: 17px;
+    }
+
+    form .form-input::placeholder {
+        font-size: 15px;
+    }
+
+    .contact-wrapper {
+        max-width: 628px;
+        padding: 52px 37px 68px;
+    }
+
+    .contact-sec {
+        margin: 32px 0px 61px;
+    }
+
+    .email-space {
+        margin: 24px 0px;
+    }
+
+    .management-sec .text-box h2 {
+        margin-bottom: 34px;
+    }
+
+    .management-page {
+        margin: 32px 0px 75px !important;
+    }
+
+    .crypto .text-box h1 span {
+        font-size: 33px !important;
+    }
+
+    .crtypto-sec {
+        margin-bottom: 74px;
+    }
+
+    .crypto .text-box h1 {
+        font-size: 40px !important;
+        line-height: 46px !important;
+    }
+
+    .text-box h1 {
+        font-size: 35.81px;
+        line-height: 17px;
+    }
+
+    .news-sec ul li h2 {
+        font-size: 16px;
+        line-height: 19px;
+    }
+
+    .contract {
+        margin: 40px 0px 54px;
+    }
+
+    .contract-sec .text-box .paragrapgh-size {
+        font-size: 12px;
+        line-height: 19px;
+    }
+
+    .sharia-sec .text-box .paragrapgh-size {
+        font-size: 12px;
+        line-height: 19px;
+    }
+
+    .sharia-sec {
+        margin: 52px 0px 52px;
+    }
+
+    .contract .text-box h1 {
+        font-size: 41px !important;
+        line-height: 28px !important;
+    }
+
+    .contract .paragrapgh-size {
+        font-size: 12px !important;
+        line-height: 19px !important;
+    }
+
+    .about-sec {
+        margin-bottom: 65px;
+    }
+
+    .news-sec .text-box p {
+        font-size: 12px;
+        line-height: 19px;
+    }
+
+    .news-sec .text-box {
+        padding: 22px 22px;
+    }
+
+    .news-sec {
+        margin: 35px 0px 60px;
+    }
+
+    .table-sec ul li h2 {
+        font-size: 28px;
+        line-height: 37px;
+    }
+
+    .table-sec .nav-tabs .nav-link {
+        font-size: 16px;
+        line-height: 28px;
+    }
+
+    .table-sec .table tbody tr th,
+    td {
+        font-size: 14px;
+        line-height: 23px;
+    }
+
+    .table-sec .table thead tr th {
+        font-size: 14px;
+        line-height: 21px;
+    }
+
+    .history-sec {
+        margin: 28px 0px 62px;
+    }
+
+    .tech-sec .bvarb-text h1 {
+        font-size: 37px !important;
+        line-height: 42px !important;
+    }
+
+    .tech-sec .bvarb-text h1 span {
+        font-size: 34px !important;
+    }
+
+    .text-box .paragrapgh-size {
+        font-size: 14px;
+        line-height: 21px;
+    }
+
+    .detail-sec .text-box p {
+        font-size: 16px;
+        line-height: 28px;
+    }
+
+    .entertainment .text-box h3 {
+        line-height: 26px;
+    }
+
+    .text-box h3 {
+        font-size: 18px;
+        line-height: 34px;
+    }
+
+    .tech-sec .text-box h1 span {
+        font-size: 38px;
+    }
+
+    .tech-sec .text-box h1 {
+        font-size: 45px;
+        line-height: 51px;
+    }
+
+    .login-wrapper {
+        max-width: 1024px;
+        padding: 46px 44px 35px 60px;
+    }
+
+    .number-sec .number-list li p {
+        font-size: 14px;
+        line-height: 25px;
+    }
+
+    .number-sec {
+        margin-bottom: 68px;
+    }
+
+    .hero-sec {
+        padding: 40px 0px 87px;
+    }
+
+    .form-box h2 {
+        font-size: 31px;
+        line-height: 38px;
+    }
+
+
+    .hero-sec .text-box h4 {
+        font-size: 28.34px;
+        line-height: 42px;
+    }
+
+    .btn-learn {
+        font-size: 22px;
+        line-height: 18px;
+        padding: 8px 0 0 0;
+    }
+
+
+
+    .text-box h2 {
+        font-size: 35px;
+        line-height: 47px;
+    }
+
+    .text-box p {
+        font-size: 13px;
+        line-height: 24px;
+    }
+
+    .graphic-sec {
+        margin-bottom: 107px;
+    }
+
+    .navbar-light .navbar-brand img {
+        width: 182px;
+    }
+
+    header .navbar-nav .nav-item .nav-link {
+        font-size: 17px;
+    }
+
+    .card-sec .card .text-box p {
+        font-size: 13px;
+        line-height: 28px;
+        padding: 0px 9px;
+    }
+
+    .card-sec .card .text-box h3 {
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    .box::before {
+        width: 62%;
+        height: 96%;
+    }
+
+    .box::after {
+        width: 62%;
+        height: 96%;
+    }
+
+    .card-sec .box img {
+        width: 60px;
+        height: 60px;
+    }
+
+    .vedio-sec {
+        margin: 88px 0px 90px;
+    }
+
+    .meta-sec {
+        margin: 121px 0px 99px;
+    }
+
+    .management-sec {
+        margin: 85px 0px 69px;
+    }
+
+    .management-sec ul .list-text h5 {
+        font-size: 24px;
+        line-height: 49px;
+    }
+
+    .management-sec ul .list-text h6 {
+        font-size: 24px;
+        line-height: 29px;
+    }
+
+    .management-sec ul .list-text p {
+        font-size: 16px;
+        line-height: 30px;
+    }
+
+    .management-sec ul .list-text {
+        padding-left: 55px;
+    }
+
+    .partner-sec .text-box::after {
+        width: 60%;
+    }
+
+    .partner-sec ul {
+        grid-template-columns: 3fr 3fr 3fr;
+    }
+
+    .partner-sec {
+        margin: 71px 0px 89px;
+    }
+
+    .customer-sec .text-box h2 {
+        font-size: 18px;
+    }
+
+    .customer-wrapper {
+        padding: 54px 64px 47px 37px;
+    }
+
+    .customer-sec ul .list-item h4 {
+        font-size: 13px;
+        line-height: 18px;
+    }
+
+    #form1 {
+        left: 0;
+        width: 100%;
+        text-align: center;
+        background: rgba(196, 163, 107, 0.8);
+        max-width: 705px;
+        margin: 0 auto;
+        right: 0;
+    }
+
+    .customer-sec {
+        padding-top: 86px;
+    }
+
+    .read-btn {
+        font-size: 16px;
+        line-height: 25px;
+    }
+
+    .metaverse-sec {
+        margin-top: 18px;
+    }
+
+    .gaming-sec .text-box p {
+        font-size: 14px;
+        line-height: 25px;
+    }
+
+    .detail-sec .text-box p {
+        font-size: 14px;
+        line-height: 25px;
+    }
+
+    .metaverse-sec .text-box p {
+        font-size: 14px;
+        line-height: 22px;
+    }
+}
+
+@media (max-width: 767px) {
+    form .form-input {
+        height: 40px;
+    }
+    .register-sec form {
+        margin-bottom: 8px;
+    }
+    .register-sec .group-space {
+        margin-top: 16px;
+    }
+    .btn-login {
+        font-size: 20px;
+        width: 156px;
+        height: 43px;
+    }
+    .btn-cancel {
+        font-size: 20px;
+        width: 156px;
+        height: 43px;
+    }
+    
+    form .lable {
+        font-size: 18px;
+    }
+    .register-wrapper {
+        max-width: 623px;
+        padding: 36px 41px 46px;
+    }
+    .contact-sec textarea {
+        height: 130px !important;
+        margin-bottom: 18px;
+    }
+
+    .contact-sec .text-box h6 {
+        font-size: 16px;
+        line-height: 26px;
+    }
+
+    .contact-sec {
+        margin: 0px 0px 51px;
+    }
+
+    .email-space {
+        margin: 15px 0px;
+    }
+
+    form .form-input::placeholder {
+        font-size: 15px;
+    }
+
+    .form-box h2 {
+        font-size: 28px;
+        line-height: 7px;
+    }
+
+    .contact-sec br {
+        display: block;
+    }
+
+    .contact-sec .location-img .location-button {
+        top: 31%;
+    }
+
+    .crypto .text-box h1 {
+        font-size: 36px !important;
+        line-height: 43px !important;
+    }
+
+    .crypto .text-box h1 span {
+        font-size: 31px !important;
+    }
+
+    .contract .text-box h1 {
+        font-size: 35px !important;
+        line-height: 14px !important;
+    }
+
+    .card-sec .card {
+        min-height: 221px;
+    }
+
+    .about-sec .text-box .read-btn {
+        margin-right: 0px;
+    }
+
+    .about-sec .item-space .text-box p {
+        max-width: 100%;
+    }
+
+    .about-space {
+        margin-bottom: 0px;
+    }
+
+    .about-sec .item-space {
+        margin-top: 0px;
+    }
+
+    .news-sec ul li h2 {
+        font-size: 15px;
+    }
+
+    .table-sec ul li h2 {
+        font-size: 23px;
+        line-height: 34px;
+    }
+
+    .table-sec .tab-content {
+        margin-bottom: 6px;
+    }
+
+    .table-sec {
+        margin-bottom: 35px;
+    }
+
+    .table-sec .table thead tr th {
+        line-height: 17px;
+    }
+
+    .entertainment .text-box h3 {
+        line-height: 32px;
+    }
+
+    .hobby-sec {
+        padding-bottom: 15px;
+    }
+
+    .tech-sec .bvarb-text h1 {
+        font-size: 36px !important;
+        line-height: 37px !important;
+    }
+
+    .tech-sec .bvarb-text h1 span {
+        font-size: 32px !important;
+    }
+
+    .read-btn {
+        font-size: 15px;
+    }
+
+    .coin-sec .text-box h1 br {
+        display: block;
+    }
+
+    .tech-sec {
+        margin-top: 30px;
+    }
+
+    .tech-sec .text-box h1 {
+        font-size: 38px;
+        line-height: 46px;
+    }
+
+    .tech-sec .text-box h1 span {
+        font-size: 32px;
+    }
+
+    .history-sec {
+        margin: 48px 0px 50px;
+    }
+
+    .tech-sec .text-box br {
+        display: block;
+    }
+
+    .detail-sec {
+        margin: 15px 0px 28px;
+    }
+
+    .coin-sec {
+        margin-top: 29px;
+    }
+
+    .gaming-sec {
+        margin-bottom: 33px;
+    }
+
+    .card-sec .card .text-box p {
+        font-size: 15px;
+        padding: 0px 46px;
+    }
+
+    .coin-sec .text-box h1 {
+        font-size: 38px;
+        line-height: 36px;
+    }
+
+    .number-sec .number-list {
+        display: grid;
+        margin-bottom: 24px;
+        text-align: center;
+    }
+
+    .number-sec .number-list .list-box {
+        margin: 0px auto 20px;
+    }
+
+    .text-box h3 {
+        font-size: 25px;
+        line-height: 34px;
+    }
+
+    .text-box .paragrapgh-size {
+        font-size: 14px;
+        line-height: 22px;
+    }
+
+    .text-box .detaile {
+        padding-top: 16px;
+        margin-bottom: 16px;
+    }
+
+    .item-space {
+        padding-top: 48px;
+    }
+
+    .nft-sec .text-box h2 {
+        font-size: 32px;
+        line-height: 32px;
+    }
+
+    .nft-sec .text-box p {
+        font-size: 14px;
+        line-height: 25px;
+    }
+
+    .card-sec .card .text-box h3 {
+        font-size: 19px;
+    }
+
+    br {
+        display: none;
+    }
+
+
+    header .navbar-nav .nav-item .nav-link {
+        font-size: 15px;
+        padding: 33px 18px 22px 9px;
+    }
+
+    header {
+        padding-top: 0px;
+    }
+
+    .navbar-light .navbar-brand img {
+        width: 164px;
+    }
+
+    .hero-sec .text-box h4 {
+        font-size: 25.34px;
+        line-height: 38px;
+    }
+
+    .graphic-sec {
+        margin-bottom: 50px;
+    }
+
+    .meta-sec {
+        margin: 67px 0px 74px;
+    }
+
+    .management-sec ul li img {
+        max-width: 150px;
+        height: 150px;
+    }
+
+    .management-sec ul .list-text {
+        padding-left: 22px;
+    }
+
+    .management-sec ul .list-text h6 {
+        font-size: 20px;
+        line-height: 22px;
+    }
+
+    .management-sec ul .list-text h5 {
+        font-size: 20px;
+        line-height: 36px;
+    }
+
+    .management-sec ul .list-text p {
+        font-size: 14px;
+        line-height: 23px;
+    }
+
+    .space {
+        margin-top: 55px;
+    }
+
+    .text-box h2 {
+        font-size: 33px;
+        line-height: 47px;
+    }
+
+    .testimonalis-space {
+        margin: 48px 0px 48px;
+    }
+
+    .partner-sec .text-box::after {
+        width: 51%;
+    }
+
+    .partner-sec ul {
+        grid-template-columns: 8fr 8fr;
+        text-align: center;
+    }
+
+    .customer-sec .text-box h2 {
+        font-size: 14px;
+        line-height: 50px;
+    }
+
+    .customer-sec .text-box {
+        top: -25px;
+    }
+
+    .customer-wrapper {
+        padding: 54px 64px 47px 37px;
+    }
+
+    .divider {
+        border-bottom: 1.14px solid #9D9D9C;
+        padding-bottom: 18px;
+    }
+
+    .customer-sec {
+        padding-top: 61px;
+    }
+
+    .partner-sec {
+        margin: 56px 0px 56px;
+    }
+
+    footer {
+        padding-top: 48px;
+    }
+
+    footer .text-box p {
+        max-width: 100%;
+    }
+
+    footer .text-box ul {
+        max-width: 100%;
+    }
+
+    footer .text-box h2 {
+        margin-bottom: 11px;
+    }
+
+
+}
+
+@media (max-width: 575px) {
+    .login-wrapper {
+        max-width: 100%;
+        padding: 46px 23px 35px 23px;
+    }
+    .login-sec .text-box h6 {
+        font-size: 14px;
+        padding-top: 30px;
+    }
+    .btn-cancel {
+        font-size: 18px;
+        width: 134px;
+        height: 38px;
+    }
+    .forget {
+        font-size: 18px;
+    }
+    .btn-login {
+        font-size: 18px;
+        width: 134px;
+        height: 38px;
+    }
+    .table-sec .table tbody tr th,
+    td {
+        font-size: 12px;
+        line-height: 15px;
+    }
+
+    .crypto .text-box h1 {
+        font-size: 30px !important;
+        line-height: 37px !important;
+    }
+
+    .crypto .text-box h1 span {
+        font-size: 22px !important;
+    }
+
+    .table-sec .table thead tr th {
+        font-size: 12px;
+    }
+
+    .table-sec ul li h2 {
+        font-size: 20px;
+        line-height: 13px;
+    }
+
+    .table-sec .nav-tabs .nav-link {
+        font-size: 14px;
+        line-height: 20px;
+    }
+
+    .tech-sec .bvarb-text h1 {
+        font-size: 30px !important;
+        line-height: 34px !important;
+    }
+
+    .table-sec ul {
+        display: grid;
+    }
+
+    .table-sec ul li .nav-tabs {
+        margin-top: 20px;
+        display: flex;
+        margin-left: 0px;
+    }
+
+    .news-sec ul li h2 {
+        font-size: 14px;
+    }
+
+    .news-sec {
+        margin: 17px 0px 42px;
+    }
+
+    .tech-sec .bvarb-text h1 span {
+        font-size: 28px !important;
+    }
+
+    .text-box h1 {
+        font-size: 26.81px;
+        line-height: 17px;
+        margin-bottom: 12px;
+    }
+
+    .entertainment .text-box h3 {
+        line-height: 22px;
+    }
+
+    .container {
+        padding: 0px 30px;
+    }
+
+    .tech-sec .text-box h1 {
+        font-size: 35px;
+        line-height: 39px;
+    }
+
+    .tech-sec .text-box h1 span {
+        font-size: 28px;
+    }
+
+    .tech-sec {
+        margin-top: 21px;
+    }
+
+    header .container {
+        padding: 0px 30px;
+    }
+
+    .number-sec .number-list li p {
+        padding-left: 0px;
+    }
+
+    .metaverse-sec .text-box h1 {
+        line-height: 28px;
+    }
+
+    .detail-sec .text-box p {
+        font-size: 13px;
+        line-height: 21px;
+    }
+
+    .text-box p {
+        font-size: 13px;
+        line-height: 21px;
+    }
+
+    .gaming-sec .text-box p {
+        font-size: 13px;
+        line-height: 21px;
+    }
+
+    .metaverse-sec .text-box p {
+        font-size: 13px;
+        line-height: 21px;
+    }
+
+    .hero-sec {
+        padding: 25px 0px 59px;
+    }
+
+    .meta-sec {
+        margin: 50px 0px 0px;
+    }
+
+    .card-sec .card .text-box h3 {
+        font-size: 17px;
+    }
+
+    .btn-learn {
+        font-size: 18px;
+    }
+
+    .management-sec ul {
+        display: grid;
+        text-align: center;
+    }
+
+    .coin-sec .text-box h1 {
+        font-size: 28px;
+        line-height: 35px;
+    }
+
+    .text-box h3 {
+        font-size: 18px;
+        line-height: 27px;
+    }
+
+    .text-box .paragrapgh-size {
+        font-size: 12px;
+        line-height: 18px;
+    }
+
+    .management-sec ul .list-text {
+        padding-left: 0px;
+        padding-top: 20px;
+    }
+
+    .management-sec ul .list-text h6 {
+        font-size: 18px;
+        line-height: 20px;
+    }
+
+    .management-sec ul .list-text h5 {
+        font-size: 18px;
+        line-height: 36px;
+    }
+
+    .wrapper {
+        padding: 46px 0px 66px;
+    }
+
+    header .navbar-nav .nav-item .nav-link {
+        font-size: 12px;
+        padding: 25px 4px 22px 4px;
+    }
+
+    .navbar-light .navbar-brand img {
+        width: 135px;
+    }
+
+    .card-sec .card .text-box p {
+        font-size: 13px;
+        padding: 0px 22px;
+        line-height: 22px;
+    }
+
+    .vedio-sec {
+        margin: 55px 0px 48px;
+    }
+
+    .text-box h2 {
+        font-size: 25px;
+        line-height: 38px;
+    }
+
+    .partner-sec .text-box::after {
+        width: 38%;
+    }
+
+    .partner-sec ul li a img {
+        padding: 0px 11px;
+    }
+
+    footer .text-box h2 {
+        font-size: 18px;
+    }
+
+    footer .text-box p {
+        font-size: 14px;
+        line-height: 26px;
+    }
+
+    footer .text-box ul li a {
+        font-size: 14px;
+    }
+
+    .divider-2 {
+        border-bottom: 1.14px solid #9D9D9C;
+        padding-bottom: 18px;
+    }
+
+    .customer-wrapper {
+        padding: 30px 26px 28px 26px;
+    }
+
+    #myImage {
+        height: 17px;
+        width: 26px;
+    }
+
+    header .dropdown-toggle img {
+        height: 17px;
+        width: 26px;
+    }
+
+    .hero-sec .text-box h4 {
+        font-size: 21.34px;
+        line-height: 33px;
+    }
+
+    .customer-sec .text-box h2 {
+        font-size: 12px;
+    line-height: 18px;
+    }
+
+    .customer-sec .text-box {
+        top: -52px;
+    }
+
+    .customer-sec {
+        padding-top: 80px;
+    }
+
+    .nft-sec .text-box h2 {
+        font-size: 27px;
+        line-height: 30px;
+    }
+
+    .nft-sec .text-box p {
+        font-size: 14px;
+        line-height: 22px;
+    }
+}
+
+
+@media (max-width: 374px) {
+    footer .text-box h2 {
+        font-size: 16px;
+    }
+    .login-sec .text-box h6 {
+        font-size: 12px;
+    }
+    .register-wrapper {
+        padding: 36px 29px 46px;
+    }
+    form .form-input::placeholder {
+        font-size: 14px;
+    }
+    .btn-cancel {
+        font-size: 16px;
+        width: 119px;
+        height: 35px;
+    }
+    .btn-login {
+        font-size: 16px;
+        width: 119px;
+        height: 35px;
+    }
+    .form-box h2 {
+        font-size: 25px;
+    }
+    .text-box .paragrapgh-size {
+        font-size: 11px;
+        line-height: 17px;
+    }
+
+    .text-box h3 {
+        font-size: 15px;
+    }
+
+    .tech-sec .bvarb-text h1 span {
+        font-size: 26px !important;
+    }
+
+    .tech-sec .bvarb-text h1 {
+        font-size: 28px !important;
+        line-height: 32px !important;
+    }
+
+    .entertainment .text-box h3 {
+        line-height: 19px;
+    }
+
+    .coin-sec .text-box h1 {
+        font-size: 26px;
+        line-height: 20px;
+    }
+
+    footer .text-box p {
+        font-size: 12px;
+    }
+
+    footer .text-box ul li a {
+        font-size: 12px;
+    }
+
+    .text-box h1 {
+        font-size: 22.81px;
+        line-height: 12px;
+    }
+
+    .card-sec .card .text-box h3 {
+        font-size: 15px;
+    }
+
+    header .navbar-nav .nav-item .nav-link {
+        font-size: 11px;
+    }
+
+    .container {
+        padding: 0px 30px;
+    }
+
+    .card-sec .card .text-box p {
+        font-size: 11px;
+        padding: 0px 20px;
+    }
+}

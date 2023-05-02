@@ -1,0 +1,192 @@
+<!doctype html>
+<html lang="en">
+
+
+<!-- Mirrored from vigosol.com/rao/bigvesta/register.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 02 May 2023 12:26:30 GMT -->
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" type="image/svg" sizes="16x16" href="images/favicon.svg">
+    <!-- Bootstrap CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/responsive.css">
+    <title>BIGVESTA</title>
+</head>
+
+<body>
+    <header>
+        <nav class="navbar navbar-expand navbar-light">
+            <div class="container">
+                <a class="navbar-brand" href="index.html"><img src="images/logo%20header.svg" class="img-fluid"></a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+                    aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNav">
+                    <ul class="navbar-nav ms-auto">
+                        <li class="nav-item">
+                            <a class="nav-link" aria-current="page" href="login.html">Login</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="register.html">Register</a>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                              <img src="images/flag.svg" class="imgfluid">
+                            </a>
+                            <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                              <li><a class="dropdown-item" href="#"><img src="images/chines.svg" class="img-fluid"></a></li>
+                              <li><a class="dropdown-item" href="#"><img src="images/SAUDI%20ARABIA.svg" class="img-fluid"></a></li>
+                              <li><a class="dropdown-item" href="#"><img src="images/MALAYSIA.svg" class="img-fluid"></a></li>
+                            </ul>
+                          </li>
+                  
+                        <li class="nav-item" onclick="changeImage()">
+                            <a class="nav-link " id="formButton" href="#"><img src="images/hamburger.svg"
+                                    class="img-fluid" id="myImage" ></a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <nav>
+            <div class="container">
+                <div class="navbar-link" id="form1">
+                    <ul class="d-lg-flex">
+                        <li><a href="stakealtcoin.html">Stake Altcoins Nft</a></li>
+                        <li><a href="metaverse.html">Metaverse</a></li>
+                        <li><a href="tech.html">Tech</a></li>
+                        <li><a href="entertainment.html">Entertainment</a></li>
+                        <li><a href="e-live.html">E-live</a></li>
+                        <li><a href="about-us.html">About Us</a></li>
+                        <li><a href="contracts.html">Contracts</a></li>
+                        <li><a href="cryptoway.html">Crypto-way</a></li>
+                        <li><a href="managemanet.html">Management</a></li>
+                        <li><a href="contact-us.html">Contact Us</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <!-- ========== login =========== -->
+    <section class="register-sec">
+        <div class="contaner">
+            <div class="register-wrapper">
+                <div class="image-holder text-center">
+                    <img src="images/register.png" class="img-fluid d-md-none d-inline mb-5">
+                </div>
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="form-box pb-md-0 pb-2">
+                            <h2>New Registration</h2>
+                        </div>
+                        <form>
+                            <div class="form-group mb-2">
+                                <label for="exampleFormControlInput1" class="form-label lable">How did you find
+                                    us?</label>
+                                <select id="Select" class="form-select form-input">
+                                    <option>Select Option</option>
+                                    <option>1</option>
+                                    <option>2</option>
+                                </select>
+                            </div>
+                            <div class="form-group mb-2">
+                                <label for="exampleFormControlInput1" class="form-label lable pt-2">Create Login
+                                    Information
+                                </label>
+                                <input type="text" class="form-control form-input" id="exampleFormControlInput1"
+                                    placeholder="Enter Username">
+                                <input type="password" class="form-control form-input input-space"
+                                    id="exampleFormControlInput1" placeholder="Enter Password">
+                                <input type="password" class="form-control form-input" id="exampleFormControlInput1"
+                                    placeholder="Enter Transaction Password">
+                            </div>
+                            <div class="form-group mt-md-0 mt-3 mb-2">
+                                <label for="exampleFormControlInput1" class="form-label lable pt-2">Personal
+                                    Information</label>
+                                <input type="text" class="form-control form-input" id="exampleFormControlInput1"
+                                    placeholder="Please Enter Your First Name">
+                                <input type="text" class="form-control form-input input-space"
+                                    id="exampleFormControlInput1" placeholder="Please Enter a Valid Email Address">
+                                <select id="Select2" class="form-select form-input">
+                                    <option>Select Country</option>
+                                    <option>England</option>
+                                    <option>Canada</option>
+                                </select>
+
+                            </div>
+                        </form>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="text-center">
+                            <div class="image-holder">
+                                <img src="images/register.png" class="img-fluid d-md-inline d-none">
+                            </div>
+                        </div>
+                        <form>
+                            <div class="form-group mb-2">
+                                <input type="password" class="form-control form-input" id="exampleFormControlInput1"
+                                    placeholder="Confirm Password">
+                                <input type="password" class="form-control form-input input-space"
+                                    id="exampleFormControlInput1" placeholder="Confirm Transaction Password">
+                            </div>
+                            <div class="form-group group-space mb-2">
+                                <input type="password" class="form-control form-input" id="exampleFormControlInput1"
+                                    placeholder="Confirm Password">
+                                <input type="password" class="form-control form-input input-space"
+                                    id="exampleFormControlInput1" placeholder="Confirm Transaction Password">
+                            </div>
+                            <div class="row">
+                                <div class="col-4">
+                                    <select id="Select" class="form-select form-input">
+                                        <option>Select</option>
+                                        <option>1</option>
+                                        <option>2</option>
+                                    </select>
+                                </div>
+                                <div class="col-8">
+                                    <input type="text" class="form-control form-input " id="exampleFormControlInput1"
+                                        placeholder="Enter a Valid Mobile Number">
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+
+                <div class="form-check pt-1 mt-md-0 mt-2 mb-4">
+
+                    <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
+                    <label class="form-check-label check-lable"  for="flexCheckDefault">
+                        I Read Terms & Conditions
+                      </label>
+                </div>
+                <div class="row align-items-center">
+                    <div class="col-sm-8">
+                        <ul class="d-flex align-items-center">
+                            <li> <a href="#" class="btn btn-login">Register</a></li>
+                            <li> <a href="#" class="btn btn-cancel">Cancel</a></li>
+                        </ul>
+                    </div>
+                    <div class="col-sm-4 mt-sm-0 mt-3">
+                        <div class="text-box text-end">
+                            <h6> <a href="index.html">Home </a></h6>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </div>
+    </section>
+    <!-- Optional JavaScript; choose one of the two! -->
+
+    <!-- Option 1: Bootstrap Bundle with Popper -->
+    <script src="js/bootstrap.bundle.min.js"></script>
+    <script src="js/jquery.min.js"></script>
+    <script src="js/main.js"></script>
+</body>
+
+
+<!-- Mirrored from vigosol.com/rao/bigvesta/register.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 02 May 2023 12:26:30 GMT -->
+</html>
